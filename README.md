@@ -14,6 +14,10 @@ Currently I'm working on/interested in:
 - the [VESC motor control firmware](https://github.com/vedderb/bldc)
 - setting up my own media-server
 
+Realllyy good sources to learn from:
+- [Introduction to a Self Managed Life by Louis Rossmann](https://wiki.futo.org/wiki/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software)
+- [Make it yourself - 1000 Useful Things to Make](https://makeityourself.org/)
+
 Funniest repos you should have seen:
 - [open-and-shut](https://github.com/veggiedefender/open-and-shut)
 - [GulfOfMexico](https://github.com/TodePond/GulfOfMexico/tree/main)
