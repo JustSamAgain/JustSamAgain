@@ -3,8 +3,9 @@
 I'm JustSamAgain and I love IT(-Security) and electrical engineering.
 
 Currently I'm studying computer science at University and have since implemented a few projects, for which some of my friends have already labeled me a nerd. ^^
+In my free time I love riding onewheels - mostly vesc custom builds or floatwheels - or going for a ride on my MTB.
 
-My latest ones are:
+My latest projects are:
 - ⌨️ [custom split keyboard with custom layout](https://github.com/JustSamAgain/rae-dux-guide-and-config)
 - a small motion alert system with an esp32 (should also be public someday)
 - CL [GaussSimulator](https://github.com/JustSamAgain/GaussSimualtor) for visualizing the progress when working with matrices
