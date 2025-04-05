@@ -2,7 +2,7 @@
 
 I'm JustSamAgain and I love IT(-Security) and electrical engineering.
 
-Currently I'm studying computer science at University and have since implemented a few projects, for which some of my friends have already labeled me a nerd. ^^
+Currently I'm studying computer science at University and have since implemented a few projects, for which some of my friends have already labeled me a nerd. ^^<br>
 In my free time I love riding onewheels - mostly vesc custom builds or floatwheels - or going for a ride on my MTB.
 
 My latest projects are:
